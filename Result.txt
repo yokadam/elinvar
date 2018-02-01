@@ -1,0 +1,2006 @@
+-----PriceUpdate:1 -----
+********Task started at Thu Feb 01 22:45:58 CET 2018 ********
+Apple - 97.85
+-----PriceUpdate:1 -----
+Google - 160.71
+Apple - 97.85
+-----PriceUpdate:2 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:3 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:4 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:5 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:6 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:7 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:8 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:9 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:10 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:11 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:12 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:13 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:14 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:15 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:16 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:17 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:18 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:19 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:20 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:21 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:22 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:23 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:24 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:25 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:26 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:27 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:28 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:29 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:30 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:31 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:32 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:33 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:34 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:35 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:36 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:37 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:38 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:39 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:40 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:41 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:42 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:43 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:44 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:45 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:46 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:47 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:48 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:49 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:50 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:51 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:52 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:53 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:54 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:55 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:56 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:57 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:58 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:59 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:60 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:61 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:62 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:63 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:64 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:65 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:66 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:67 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:68 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:69 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:70 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:71 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:72 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:73 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:74 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:75 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:76 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:77 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:78 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:79 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:80 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:81 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:82 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:83 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:84 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:85 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:86 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:87 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:88 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:89 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:90 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:91 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:92 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:93 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:94 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:95 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:96 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:97 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:98 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:99 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:100 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+********Task started at Thu Feb 01 22:45:59 CET 2018 ********
+-----PriceUpdate:1 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:2 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:3 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:4 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:5 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:6 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:7 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:8 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:9 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:10 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:11 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:12 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:13 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:14 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:15 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:16 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:17 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:18 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:19 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:20 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:21 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:22 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:23 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:24 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:25 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:26 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:27 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:28 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:29 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:30 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:31 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:32 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:33 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:34 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:35 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:36 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:37 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:38 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:39 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:40 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:41 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:42 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:43 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:44 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:45 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:46 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:47 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:48 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:49 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:50 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:51 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:52 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:53 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:54 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:55 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:56 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:57 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:58 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:59 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:60 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:61 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:62 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:63 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:64 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:65 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:66 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:67 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:68 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:69 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:70 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:71 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:72 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:73 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:74 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:75 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:76 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:77 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:78 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:79 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:80 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:81 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:82 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:83 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:84 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:85 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:86 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:87 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:88 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:89 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:90 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:91 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:92 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:93 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:94 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:95 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:96 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:97 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:98 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:99 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:100 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+********Task started at Thu Feb 01 22:46:00 CET 2018 ********
+-----PriceUpdate:1 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:2 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:3 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:4 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:5 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:6 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:7 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:8 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:9 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:10 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:11 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:12 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:13 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:14 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:15 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:16 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:17 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:18 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:19 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:20 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:21 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:22 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:23 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:24 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:25 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:26 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:27 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:28 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:29 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:30 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:31 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:32 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:33 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:34 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:35 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:36 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:37 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:38 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:39 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:40 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:41 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:42 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:43 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:44 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:45 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:46 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:47 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:48 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:49 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:50 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:51 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:52 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:53 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:54 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:55 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:56 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:57 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:58 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:59 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:60 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:61 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:62 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:63 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:64 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:65 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:66 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:67 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:68 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:69 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:70 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:71 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:72 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:73 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:74 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:75 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:76 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:77 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:78 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:79 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:80 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:81 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:82 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:83 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:84 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:85 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:86 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:87 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:88 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:89 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:90 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:91 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:92 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:93 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:94 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:95 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:96 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:97 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:98 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:99 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:100 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+********Task started at Thu Feb 01 22:46:01 CET 2018 ********
+-----PriceUpdate:1 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:2 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:3 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:4 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:5 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:6 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:7 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:8 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:9 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:10 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:11 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:12 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:13 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:14 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:15 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:16 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:17 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:18 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:19 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:20 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:21 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:22 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:23 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:24 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:25 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:26 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:27 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:28 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:29 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:30 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:31 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:32 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:33 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:34 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:35 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:36 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:37 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:38 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:39 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:40 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:41 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:42 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:43 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:44 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:45 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:46 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:47 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:48 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:49 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:50 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:51 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:52 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:53 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:54 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:55 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:56 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:57 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:58 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:59 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:60 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:61 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:62 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:63 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:64 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:65 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:66 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:67 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:68 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:69 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:70 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:71 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:72 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:73 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:74 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:75 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:76 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:77 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:78 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:79 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:80 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:81 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:82 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:83 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:84 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:85 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:86 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:87 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:88 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:89 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:90 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:91 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:92 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:93 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:94 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:95 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:96 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:97 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:98 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:99 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:100 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+********Task started at Thu Feb 01 22:46:02 CET 2018 ********
+-----PriceUpdate:1 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:2 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:3 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:4 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:5 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:6 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:7 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:8 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:9 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:10 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:11 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:12 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:13 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:14 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:15 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:16 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:17 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:18 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:19 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:20 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:21 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:22 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:23 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:24 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:25 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:26 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:27 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:28 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:29 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:30 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:31 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:32 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:33 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:34 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:35 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:36 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:37 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:38 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:39 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:40 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:41 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:42 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:43 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:44 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:45 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:46 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:47 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:48 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:49 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:50 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:51 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:52 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:53 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:54 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:55 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:56 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:57 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:58 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:59 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:60 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:61 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:62 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:63 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:64 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:65 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:66 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:67 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:68 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:69 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:70 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:71 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:72 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:73 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:74 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:75 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:76 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:77 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:78 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:79 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:80 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:81 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:82 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:83 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:84 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:85 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:86 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:87 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:88 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:89 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:90 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:91 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:92 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:93 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:94 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:95 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.63
+-----PriceUpdate:96 -----
+Google - 160.71
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:97 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.66
+-----PriceUpdate:98 -----
+Google - 160.73
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:99 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
+-----PriceUpdate:100 -----
+Google - 160.76
+Apple - 97.85
+Facebook - 91.71
